@@ -34,4 +34,11 @@
     background-color: burlywood;
     text-align: center;
     color: white;
- }
+}
+#bawah {
+    width:500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
